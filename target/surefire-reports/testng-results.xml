@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ir.divar.login.LoginTest" duration-ms="29796" started-at="2020-05-17T18:24:01 IRDT" finished-at="2020-05-17T18:24:30 IRDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="29796" started-at="2020-05-17T18:24:01 IRDT" finished-at="2020-05-17T18:24:30 IRDT">
+      <class name="ir.divar.login.LoginTest">
+        <test-method status="PASS" signature="initPage()[pri:0, instance:ir.divar.login.LoginTest@4dfa3a9d]" name="initPage" is-config="true" duration-ms="3788" started-at="2020-05-17T18:24:01 IRDT" finished-at="2020-05-17T18:24:04 IRDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPage -->
+        <test-method status="PASS" signature="testIsPageAvailabe()[pri:0, instance:ir.divar.login.LoginTest@4dfa3a9d]" name="testIsPageAvailabe" duration-ms="23600" started-at="2020-05-17T18:24:04 IRDT" finished-at="2020-05-17T18:24:28 IRDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsPageAvailabe -->
+        <test-method status="PASS" signature="testIsLoginButtonAvailabe()[pri:1, instance:ir.divar.login.LoginTest@4dfa3a9d]" name="testIsLoginButtonAvailabe" duration-ms="283" started-at="2020-05-17T18:24:28 IRDT" finished-at="2020-05-17T18:24:28 IRDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsLoginButtonAvailabe -->
+        <test-method status="PASS" signature="testFillMobileNumber()[pri:2, instance:ir.divar.login.LoginTest@4dfa3a9d]" name="testFillMobileNumber" duration-ms="1319" started-at="2020-05-17T18:24:28 IRDT" finished-at="2020-05-17T18:24:30 IRDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFillMobileNumber -->
+        <test-method status="PASS" signature="destroy()[pri:0, instance:ir.divar.login.LoginTest@4dfa3a9d]" name="destroy" is-config="true" duration-ms="774" started-at="2020-05-17T18:24:30 IRDT" finished-at="2020-05-17T18:24:30 IRDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- ir.divar.login.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ir.divar.login.LoginTest -->
+</testng-results>

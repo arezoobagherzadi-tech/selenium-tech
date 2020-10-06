@@ -1,0 +1,11 @@
+<suite name="MyTestSuite" verbose="4">
+
+    <test name="MyTest" >
+        <classes preserve-order="true">
+            <class name="ir.divar.market.DeleteAndSearchMarketUser" />
+            <class name="ir.divar.market.MarketSignUp" />
+            <class name="ir.divar.market.AcceptAdminMobileMarket" />
+            <class name="ir.divar.market.SignupAgainAfterSignupMarket" />
+        </classes>
+    </test>
+</suite>
